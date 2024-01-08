@@ -1,0 +1,7 @@
+{
+  "inner_bags": 40,
+  "outer_bags": 10,
+  "max_bins": 128,
+  "max_leaves": 5,
+  "smoothing_rounds": 300
+}
